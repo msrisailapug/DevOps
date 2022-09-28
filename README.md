@@ -1,1 +1,1 @@
-# DevOps
+# sample repository to create DevOps
